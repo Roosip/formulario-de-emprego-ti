@@ -45,5 +45,5 @@ Este é um formulário de emprego para a área de Desenvolvimento de TI. Ele con
 - Apache Kafka
 
 ## Autor
-
+Desenvolvido com base em uma atividade escolar.
 Este formulário foi desenvolvido por Guilherme Augusto. Você pode encontrá-lo no GitHub em [Roosip](https://github.com/Roosip).
